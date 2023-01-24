@@ -1,0 +1,34 @@
+.inputContainer {
+	width: fit-content;
+	display: flex;
+	gap: .25rem;
+	align-items: center;
+}
+
+.inputContainer input {
+	border: 0;
+	outline: 0;
+}
+
+.inputContainer label {
+	color: #ddd;
+}
+.inputContainer:has(input:focus) label {
+	color: #faa;
+}
+
+.inputContainer.solid {
+	border: 1px solid #ddd;
+	padding: .25rem;
+}
+.inputContainer.solid:has(input:focus) {
+	border: 1px solid #faa;
+}
+
+.inputContainer.dashed {
+	border-bottom: 2px dashed #ddd;
+	padding: .25rem;
+}
+.inputContainer.dashed:has(input:focus) {
+	border-bottom: 2px dashed #faa;
+}
