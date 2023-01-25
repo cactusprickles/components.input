@@ -1,9 +1,11 @@
-import DefaultInput from "./pages/DefaultInput";
+import IconInput from "./pages/IconInput";
+import TitleInput from "./pages/TitleInput";
 
 export default function App() {
 	return (
 		<div>
-			<DefaultInput />
+			<IconInput />
+			<TitleInput />
 		</div>
 	);
 }
