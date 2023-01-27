@@ -28,4 +28,6 @@ PasswordInput은 다양한 사이트에서 비밀번호 입력 시 확인할 수
 
 ### SelectInput
 
+![image](https://user-images.githubusercontent.com/87294942/215020581-701ab610-9d08-4fce-8974-62d9c8546cd5.png)
+
 선택할 수 있는 Input을 만들고싶어 만들었습니다.
