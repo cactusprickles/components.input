@@ -25,3 +25,7 @@ TitleInput은 구글로그인에서 placeholder처럼 있던 부분이 border로
 ![image](https://user-images.githubusercontent.com/87294942/214780007-87fcc55f-134e-4066-ad1f-5105ac8314f5.png)
 
 PasswordInput은 다양한 사이트에서 비밀번호 입력 시 확인할 수 있는 Input으로 변경하는 부분을 보고 만들었습니다.
+
+### SelectInput
+
+선택할 수 있는 Input을 만들고싶어 만들었습니다.

@@ -1,6 +1,7 @@
 import IconInput from "./pages/IconInput";
 import TitleInput from "./pages/TitleInput";
 import PasswordInput from "./pages/PasswordInput";
+import SelectInput from "./pages/SelectInput";
 
 export default function App() {
 	return (
@@ -8,6 +9,7 @@ export default function App() {
 			<IconInput />
 			<TitleInput />
 			<PasswordInput />
+			<SelectInput />
 		</div>
 	);
 }
